@@ -21,7 +21,7 @@ const CartItem = ({ onContinueShopping }) => {
   };
 
   const handleCheckoutShopping = () => {
-    alert("Checkout button pressed");
+    alert("Checkout coming soon...");
   };
 
   const handleIncrement = (item) => {
